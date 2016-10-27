@@ -21,3 +21,6 @@ All Database credentials and social apps credentails are present in \login\crede
 #### License
 MIT
 
+#### Devloper
+Samiksha Bansal
+
